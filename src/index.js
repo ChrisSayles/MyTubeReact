@@ -19,7 +19,7 @@ class App extends Component {
    selectedVideo: null
  };
 
- this.videoSearch('Ghost BC');
+ this.videoSearch('ReactJS');
  }
 
  videoSearch(term){
